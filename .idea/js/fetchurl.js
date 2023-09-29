@@ -44,11 +44,10 @@ const obj = {
     prop3: 'value3'
 };
 
-// Accessing the first property
 const firstProperty = Object.keys(obj)[0];
 
-console.log(firstProperty); // Output: 'prop1'
-console.log(obj[firstProperty]); // Output: 'value1'
+console.log(firstProperty);
+console.log(obj[firstProperty]);
 
 function convertJsonToText2(json) {
     const txt = json.map(region => `{"region": "${region.kode}"}`).join(', ');
