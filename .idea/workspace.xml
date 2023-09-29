@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb75b3a1-1ca0-479b-8fc7-d1e5eb926ae2" name="Changes" comment="Nu får jeg kommuner i array i consolen">
+    <list default="true" id="fb75b3a1-1ca0-479b-8fc7-d1e5eb926ae2" name="Changes" comment="Ordnet i html og tættere på">
       <change beforePath="$PROJECT_DIR$/.idea/js/kommunedropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js/kommunedropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696017363823</updated>
-      <workItem from="1696017365242" duration="2973000" />
+      <workItem from="1696017365242" duration="3288000" />
     </task>
     <task id="LOCAL-00001" summary="Ændringer til metode">
       <created>1696019319646</created>
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696019485376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ordnet i html og tættere på">
+      <created>1696020509224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696020509224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ændringer til metode" />
     <MESSAGE value="Nu får jeg kommuner i array i consolen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nu får jeg kommuner i array i consolen" />
+    <MESSAGE value="Ordnet i html og tættere på" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ordnet i html og tættere på" />
   </component>
 </project>
