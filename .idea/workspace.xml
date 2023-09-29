@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb75b3a1-1ca0-479b-8fc7-d1e5eb926ae2" name="Changes" comment="Dropdown virker">
+    <list default="true" id="fb75b3a1-1ca0-479b-8fc7-d1e5eb926ae2" name="Changes" comment="ryddet op">
       <change beforePath="$PROJECT_DIR$/.idea/js/kommunedropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js/kommunedropdown.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kommunedropdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kommunedropdown.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696017363823</updated>
-      <workItem from="1696017365242" duration="4085000" />
+      <workItem from="1696017365242" duration="6671000" />
     </task>
     <task id="LOCAL-00001" summary="Ændringer til metode">
       <created>1696019319646</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696020791553</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ryddet op">
+      <created>1696021641892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696021641892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
     <MESSAGE value="Nu får jeg kommuner i array i consolen" />
     <MESSAGE value="Ordnet i html og tættere på" />
     <MESSAGE value="Dropdown virker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dropdown virker" />
+    <MESSAGE value="ryddet op" />
+    <option name="LAST_COMMIT_MESSAGE" value="ryddet op" />
   </component>
 </project>
